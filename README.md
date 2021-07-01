@@ -8,7 +8,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JMR-Mejia&count_private=true&show_icons=true&line_height=27&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMR-Mejia&theme=dracula"/>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JMR_Mejia&theme=dracula&layout=compact">
 </div>
 <!--
 Here are some ideas to get you started:
