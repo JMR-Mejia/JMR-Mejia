@@ -4,6 +4,12 @@
   <a href="https://platzi.com/p/JMR_mejia_/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h3>Github Stats</h3>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JMR-Mejia&count_private=true&show_icons=true&line_height=27&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMR-Mejia&theme=dracula"/>
+
+</div>
 <!--
 Here are some ideas to get you started:
 
